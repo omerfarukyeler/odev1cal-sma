@@ -11,7 +11,7 @@ public class Question1 {
 		sayi = 45;
 		System.out.println(sayi);
 
-		byte distance = 115ornek;
+		byte distance = 115;
 		System.out.println(distance);
 
 		short rakam = 3234;
