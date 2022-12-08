@@ -6,7 +6,7 @@ public class Question1 {
 		
 		byte yas = 33 ;		
 		System.out.println(yas);
-		System.out.prıntln(yas);
+		
 		
 		byte sayı ;
 		sayı = 45;
